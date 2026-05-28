@@ -74,11 +74,35 @@ This project is intentionally built as a polished portfolio piece. It demonstrat
 - Persist data in a database
 - Add automated tests
 
-## About
+---
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+## Creator & Brand
 
-- 🌐 [designhubmk.com](https://www.designhubmk.com)
-- 📧 info@designhubmk.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
-- 🐙 [GitHub](https://github.com/fullstackwithai)
+<p align="center">
+  <img alt="Enterprise SaaS" src="https://img.shields.io/badge/Enterprise%20SaaS-CRM%20Dashboard-2563EB?style=for-the-badge" />
+  <img alt="Revenue Ops" src="https://img.shields.io/badge/Revenue%20Ops-KPI%20Intelligence-0F172A?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-38BDF8?style=for-the-badge" />
+</p>
+
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+> **Enterprise dashboard thinking for SaaS products, customer operations, subscription workflows, and revenue visibility.**
+
+| Brand Direction | Portfolio Value |
+|---|---|
+| **Enterprise SaaS UI** | Shows ability to build serious admin systems, not just landing pages |
+| **CRM + revenue operations** | Demonstrates business understanding around customers, pipeline, churn, and subscriptions |
+| **Executive KPI design** | Communicates performance data quickly for founders, managers, and operators |
+| **Scalable product thinking** | Positions the project as a foundation for real SaaS dashboards |
+
+**Professional Focus:** I build polished SaaS-style dashboards that combine clean frontend execution, operational clarity, KPI-first layouts, and AI-assisted development speed.
+
+**Why it matters:** Hiring managers and CEOs can see the ability to design interfaces that support real business operations, not just visual decoration.
+
+<p align="center">
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> · SaaS dashboards · CRM systems · Revenue operations · AI-assisted product thinking
+</p>
