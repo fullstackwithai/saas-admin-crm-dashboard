@@ -1,50 +1,77 @@
 # SaaS Admin CRM Dashboard
 
-> A modern SaaS admin CRM dashboard with customer management, subscription tracking, revenue KPIs, pipeline insights, support activity, and responsive enterprise-style UI.
+> Enterprise SaaS CRM dashboard for customer management, subscription visibility, revenue KPIs, pipeline tracking, and support operations.
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+Built by **Arsim Shefkiu** under **FullStackWithAI**.
+
+<p align="center">
+  <img alt="Enterprise SaaS" src="https://img.shields.io/badge/Enterprise%20SaaS-CRM%20Dashboard-2563EB?style=for-the-badge" />
+  <img alt="Revenue Ops" src="https://img.shields.io/badge/Revenue%20Ops-KPI%20Visibility-0F172A?style=for-the-badge" />
+  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-B2B%20Dashboard-38BDF8?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+---
 
 ![Project screenshot](assets/screenshot.png)
 
-## Overview
+---
 
-A polished admin CRM dashboard built for full-stack/frontend roles. It demonstrates enterprise UI thinking, KPI cards, pipeline management, searchable records, billing status, responsive layout, and clean component structure.
+## Enterprise SaaS Theme
 
-## Why this project exists
+> **Customers. Revenue. Pipeline. Support. One operational dashboard experience.**
 
-This repository is designed to be visible and understandable to recruiters in the first 30 seconds. It shows practical product thinking, clean front-end structure, responsive UI execution, and business/data awareness.
+This repository is presented as a B2B SaaS admin and CRM dashboard. It follows an enterprise blue theme focused on operational visibility, customer lifecycle management, subscription status, revenue signals, and product-ready dashboard structure.
+
+| Theme Layer | Direction |
+|---|---|
+| **Design Identity** | Deep navy, enterprise blue, clean KPI contrast |
+| **Product Feel** | SaaS admin panel / CRM command center |
+| **Audience** | SaaS founders, CRM teams, revenue operators, hiring managers |
+| **Core Message** | Customer data + revenue KPIs + pipeline visibility + admin workflow clarity |
+
+---
+
+## Operations KPI Layer
+
+| KPI | Purpose |
+|---|---|
+| **Monthly Revenue** | Tracks commercial performance and growth direction |
+| **Active Customers** | Shows customer base health and product adoption |
+| **Churn Risk** | Highlights accounts requiring attention |
+| **Pipeline Value** | Supports sales forecasting and prioritization |
+| **Support Load** | Measures operational pressure and service quality |
+
+---
+
+## What This Project Demonstrates
+
+| Capability | Evidence in This Repo |
+|---|---|
+| **Enterprise UI Thinking** | Dashboard modules for revenue, users, churn, support, and pipeline |
+| **CRM Workflow Design** | Customer table, status badges, and activity sections |
+| **Revenue Operations Sense** | KPI structure built around SaaS operating metrics |
+| **Responsive Frontend Execution** | Static dashboard suitable for desktop, tablet, and mobile |
+| **Product Presentation** | Repo reads like a B2B product concept, not only a UI exercise |
+
+---
 
 ## Features
 
 - Executive KPI cards for revenue, users, churn, and support load
 - Lead pipeline and recent activity modules
 - Searchable customer table with status badges
-- Responsive enterprise layout for desktop, tablet, and mobile
+- Responsive enterprise layout
 - No framework dependency; easy to migrate to React
 
-## Tech Stack
+---
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Responsive layout
-- Mock dataset / client-side interactions
-
-## Project Structure
-
-```text
-saas-admin-crm-dashboard/
-├── index.html
-├── assets/
-│   ├── styles.css
-│   ├── app.js
-│   └── screenshot.png
-└── README.md
-```
-
-## How to Run
-
-Open `index.html` directly in your browser, or run a simple local server:
+## Run Locally
 
 ```bash
 python -m http.server 5173
@@ -56,53 +83,38 @@ Then open:
 http://localhost:5173
 ```
 
-## Recruiter Notes
+---
 
-This project is intentionally built as a polished portfolio piece. It demonstrates:
+## Project Architecture
 
-- UI/UX judgment
-- Responsive front-end implementation
-- Business dashboard thinking
-- Clean file organization
-- Ability to turn an idea into a product-like interface
-
-## Future Improvements
-
-- Convert to React components
-- Add API data loading
-- Add authentication and protected routes
-- Persist data in a database
-- Add automated tests
+```text
+saas-admin-crm-dashboard/
+├── index.html
+├── assets/
+│   ├── styles.css
+│   ├── app.js
+│   └── screenshot.png
+└── README.md
+```
 
 ---
 
 ## Creator & Brand
 
-<p align="center">
-  <img alt="Enterprise SaaS" src="https://img.shields.io/badge/Enterprise%20SaaS-CRM%20Dashboard-2563EB?style=for-the-badge" />
-  <img alt="Revenue Ops" src="https://img.shields.io/badge/Revenue%20Ops-KPI%20Intelligence-0F172A?style=for-the-badge" />
-  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-38BDF8?style=for-the-badge" />
-</p>
-
 ### Built by **Arsim Shefkiu** under **FullStackWithAI**
 
-> **Enterprise dashboard thinking for SaaS products, customer operations, subscription workflows, and revenue visibility.**
+> **Enterprise SaaS theme focused on customer operations, revenue visibility, CRM workflows, and scalable dashboard thinking.**
 
-| Brand Direction | Portfolio Value |
+| Creator Focus | Brand Positioning |
 |---|---|
-| **Enterprise SaaS UI** | Shows ability to build serious admin systems, not just landing pages |
-| **CRM + revenue operations** | Demonstrates business understanding around customers, pipeline, churn, and subscriptions |
-| **Executive KPI design** | Communicates performance data quickly for founders, managers, and operators |
-| **Scalable product thinking** | Positions the project as a foundation for real SaaS dashboards |
-
-**Professional Focus:** I build polished SaaS-style dashboards that combine clean frontend execution, operational clarity, KPI-first layouts, and AI-assisted development speed.
-
-**Why it matters:** Hiring managers and CEOs can see the ability to design interfaces that support real business operations, not just visual decoration.
+| I build polished SaaS-style dashboards that combine frontend execution, operational clarity, and KPI-first layouts. | **FullStackWithAI** represents portfolio work built around business dashboards, product structure, and AI-assisted execution. |
 
 <p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+  <strong>Theme:</strong> Enterprise SaaS · CRM Dashboard · Revenue Operations · Customer Intelligence
 </p>
 
 <p align="center">
-  <strong>FullStackWithAI</strong> · SaaS dashboards · CRM systems · Revenue operations · AI-assisted product thinking
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
