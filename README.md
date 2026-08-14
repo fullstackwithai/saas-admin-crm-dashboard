@@ -1,20 +1,19 @@
-# SaaS Admin CRM Dashboard
+<div align="center">
 
-> Enterprise SaaS CRM dashboard for customer management, subscription visibility, revenue KPIs, pipeline tracking, and support operations.
+# SAAS ADMIN CRM DASHBOARD
 
-Built by **Arsim Shefkiu** under **FullStackWithAI**.
+### Enterprise Customer, Revenue & Pipeline Operations
 
-<p align="center">
-  <img alt="Enterprise SaaS" src="https://img.shields.io/badge/Enterprise%20SaaS-CRM%20Dashboard-2563EB?style=for-the-badge" />
-  <img alt="Revenue Ops" src="https://img.shields.io/badge/Revenue%20Ops-KPI%20Visibility-0F172A?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-B2B%20Dashboard-38BDF8?style=for-the-badge" />
-</p>
+**Customers. Revenue. Pipeline. Support. One operational dashboard experience.**
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-B2B%20SaaS-2563EB?style=flat-square)
+![Product](https://img.shields.io/badge/product-CRM%20Dashboard-0F172A?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Operational clarity for modern SaaS teams.**
+
+</div>
 
 ---
 
@@ -23,8 +22,6 @@ Built by **Arsim Shefkiu** under **FullStackWithAI**.
 ---
 
 ## Enterprise SaaS Theme
-
-> **Customers. Revenue. Pipeline. Support. One operational dashboard experience.**
 
 This repository is presented as a B2B SaaS admin and CRM dashboard. It follows an enterprise blue theme focused on operational visibility, customer lifecycle management, subscription status, revenue signals, and product-ready dashboard structure.
 
@@ -99,22 +96,28 @@ saas-admin-crm-dashboard/
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Enterprise SaaS theme focused on customer operations, revenue visibility, CRM workflows, and scalable dashboard thinking.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-| Creator Focus | Brand Positioning |
-|---|---|
-| I build polished SaaS-style dashboards that combine frontend execution, operational clarity, and KPI-first layouts. | **FullStackWithAI** represents portfolio work built around business dashboards, product structure, and AI-assisted execution. |
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
 
-<p align="center">
-  <strong>Theme:</strong> Enterprise SaaS · CRM Dashboard · Revenue Operations · Customer Intelligence
-</p>
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+---
+
+<div align="center">
+
+## SaaS Admin CRM Dashboard
+
+**Operational clarity for modern SaaS teams.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
